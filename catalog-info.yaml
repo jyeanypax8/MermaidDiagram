@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: mermaid-graph
+  annotations:
+    github.com/project-slug: pax8/MermaidDiagram
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: production
+  owner: jyeanypax8
+  system: jyeanypax8
