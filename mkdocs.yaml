@@ -1,0 +1,6 @@
+site_name: Mermaid Diagram
+site_description: Test Mermaid Graph Rendering
+nav:
+  - Diagram: README.md
+plugins:
+  - techdocs-core
